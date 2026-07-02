@@ -27,10 +27,16 @@ Instituto Mexicano de la Juventud | 04 de junio de 2018
 􏊚
 
 
+Encuentro de Autoridades Jóvenes!
+
+https://www.gob.mx/imjuve/articulos/participa-en-el-encuentro-de-autoridades-jovenes
+
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/3f8dc5f3-4473-4cb4-b9f4-6537127ff7d8" />
 
 
+<!---<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/5b59354d-3d3c-4b78-9fc9-fc24d45e0bca" />
+---->
 
-<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/5b59354d-3d3c-4b78-9fc9-fc24d45e0bca" />
 
 ---
 
