@@ -1,5 +1,22 @@
 # jovenes-construyendo-pdf
 
+```
+
+Objetivo:
+Documentar un caso de estudio sobre enlaces locales (`file:///...`)
+en una página pública.
+
+No se redistribuyen los recursos originales.
+Se enlaza a la página oficial.
+
+Captura de pantalla.
+
+Explicación técnica.
+
+Fragmento mínimo del HTML relevante.
+
+```
+
 
 ----
 
